@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Raleway|Overpass');
+ 
+hr {
+	display: block;
+	width: 500px;
+	height: 1px;
+	border: 0;
+	border-top: solid;
+	border-color: #673AB7;  
+}
+
+.text-header {
+	font-family: 'Overpass', sans-serif;  
+	font-size: 25px;
+	color: #795548;
+}
+
+.BlogHeader {
+	font-family: 'Nunito', sans-serif;
+	font-size: 50px;
+	text-align: center;
+	color: #D32F2F;
+}
+
