@@ -1,6 +1,6 @@
 **A simple Todo App build using React.js javascript framework**
 
-==Step to run Todo App==
+==Steps to run Todo App==
 
 - install Node.js from [Node Website](https://nodejs.org) 
 - change directory ```cd React-todo-app```
