@@ -54,10 +54,10 @@ export default class Todo extends React.Component {
 	render() {
 		return (
 			<div className="row">
-				<div className="col-4">
+				<div className="col-5">
 					<AddTodo addTodo={this.handleAddTodo.bind(this)}/>
 				</div>
-				<div className="col-6 offset-2">
+				<div className="col-6 offset-1">
 					<TodoList todos={this.state.todos} deleteTodo={this.handleDeleteTodo.bind(this)}/>
 				</div>         	  
 			</div>
