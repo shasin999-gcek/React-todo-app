@@ -7,4 +7,4 @@
 - ```npm install```
 - ```npm start```
 
-*By Muhammed sahsin p* 
+*By Muhammed sahsin P* 
